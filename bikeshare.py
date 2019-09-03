@@ -1,3 +1,8 @@
+"""
+This program is used to analyze bike sharing data in Chicago, New York City and Washington
+"""
+
+
 import time
 import pandas as pd
 import numpy as np
