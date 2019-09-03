@@ -5,10 +5,11 @@ Project date: September 3, 2019
 Github project
 
 ### Description
-Analyzes the bike share system of Chicago, New York City and Washington.
+Analyzes the bike share system of Chicago, New York City and Washington DC.
 
 ### Files used
 Data was provided by Motivate, a bike share system provider in the U.S.
+
 
 ### Credits
 wwww.motivateco.com
