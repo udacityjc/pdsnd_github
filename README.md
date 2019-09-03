@@ -1,5 +1,5 @@
 ### Date created
-September 3, 2019
+Project date: September 3, 2019
 
 ### Project Title
 Github project
