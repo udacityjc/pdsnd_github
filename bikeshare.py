@@ -1,5 +1,6 @@
 """
 This program is used to analyze bike sharing data in Chicago, New York City and Washington
+by JC 
 """
 
 
@@ -87,7 +88,7 @@ def load_data(city, month, day):
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
 	"""All time is calculated in seconds"""
-    print('\nCalculating The Most Frequent Times of Travel...\n')
+    print('\nCalculating The Most Frequent Times of Travel...\n')g
     start_time = time.time()
 
     # TO DO: display the most common month
