@@ -1,15 +1,16 @@
 ### Date created
-Include the date you created this project and README file.
+September 3, 2019
 
 ### Project Title
-Replace the Project Title
+Github project
 
 ### Description
-Describe what your project is about and what it does
+Analyzes the bike share system of Chicago, New York City and Washington.
 
 ### Files used
-Include the files used
+Data was provided by Motivate, a bike share system provider in the U.S.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+wwww.motivateco.com
+www.udacity.com
 
